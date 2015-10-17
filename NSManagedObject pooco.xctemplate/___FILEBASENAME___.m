@@ -1,0 +1,13 @@
+//
+//  ___FILENAME___
+//  ___PROJECTNAME___
+//
+//___COPYRIGHT___
+//
+
+#import "___FILEBASENAME___.h"
+___COREDATAMANAGEDOBJECTIMPORTEDHEADERS___
+@implementation ___FILEBASENAMEASIDENTIFIER___
+
+
+@end

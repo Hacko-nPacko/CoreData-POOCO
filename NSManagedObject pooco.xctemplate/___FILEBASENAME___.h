@@ -1,0 +1,15 @@
+//
+//  ___FILENAME___
+//  ___PROJECTNAME___
+//
+//___COPYRIGHT___
+//
+
+#import <Foundation/Foundation.h>
+NS_ASSUME_NONNULL_BEGIN
+
+@interface ___FILEBASENAMEASIDENTIFIER___ : NSObject
+___COREDATAPROPERTYDECLARATIONS___
+@end
+
+NS_ASSUME_NONNULL_END
